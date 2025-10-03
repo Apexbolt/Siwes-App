@@ -190,6 +190,9 @@ export const LANGUAGES = [
   "Ruby",
   "Kotlin",
   "Swift",
+  "R",
+  "Dart",
+  "Scala",
 ];
 
 export const LANGUAGE_TO_FLAG = {
@@ -207,4 +210,23 @@ export const LANGUAGE_TO_FLAG = {
   italian: "it",
   turkish: "tr",
   dutch: "nl",
+};
+
+export const LANGUAGE_TO_LOGO = {
+  javascript: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+  typescript: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+  python: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+  java: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+  c: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+  "c++": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+  "c#": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+  go: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
+  rust: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg",
+  php: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+  ruby: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg",
+  swift: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg",
+  kotlin: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg",
+  r: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg",
+  dart: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg",
+  scala: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg",
 };
